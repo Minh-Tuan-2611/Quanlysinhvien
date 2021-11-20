@@ -1,0 +1,36 @@
+.create-btn,
+.btn-change {
+    margin: 10px 0;
+    padding: 6px;
+    min-width: 110px;
+    border: none;
+    background-color: #3d84df;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.create-btn:hover,
+.btn-change:hover {
+    opacity: 0.7;
+}
+
+.error {
+    border-color: rgb(202, 91, 91);
+}
+
+.error-msg {
+    color: rgb(202, 91, 91);
+}
+
+.content {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 8px;
+    min-width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+}
